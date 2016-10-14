@@ -1,4 +1,4 @@
 hi git
 end
 1,2,3,4
-goodbye git
+bye git
